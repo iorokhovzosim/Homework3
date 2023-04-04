@@ -1,0 +1,15 @@
+/Users/user/Desktop/Homework3/homework3/bin/Debug/net6.0/homework3
+/Users/user/Desktop/Homework3/homework3/bin/Debug/net6.0/homework3.deps.json
+/Users/user/Desktop/Homework3/homework3/bin/Debug/net6.0/homework3.runtimeconfig.json
+/Users/user/Desktop/Homework3/homework3/bin/Debug/net6.0/homework3.dll
+/Users/user/Desktop/Homework3/homework3/bin/Debug/net6.0/homework3.pdb
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.csproj.AssemblyReference.cache
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.AssemblyInfoInputs.cache
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.AssemblyInfo.cs
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.dll
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/refint/homework3.dll
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.pdb
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/homework3.genruntimeconfig.cache
+/Users/user/Desktop/Homework3/homework3/obj/Debug/net6.0/ref/homework3.dll
